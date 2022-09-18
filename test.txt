@@ -1,1 +1,1 @@
-this is another sample file
+this is another sample file with feature
